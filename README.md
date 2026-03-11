@@ -3,6 +3,7 @@
 ## I'm QA Engeneer.
 
 ## Languages and Tools
-![MySQL]( https://img.shields.io/badge/-MySQL-47090b)
+![MySQL]( https://img.shields.io/badge/-MySQL-47090b) 
+![GIT]( https://img.shields.io/badge/-GIT-47090b)
 
 Follow Me
