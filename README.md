@@ -2,6 +2,7 @@
 
 ## I'm QA Engeneer.
 
-Latest YouTube Videos
+## Languages and Tools
+![MySQL]( https://img.shields.io/badge/-MySQL-505e6a2)
 
 Follow Me
